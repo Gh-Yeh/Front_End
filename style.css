@@ -1,0 +1,17 @@
+* {
+  font-size: 20px;
+}
+header {
+  margin: 20px;
+  border-bottom: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  color: rgb(119, 25, 25);
+}
+main {
+  margin-bottom: 40%;
+}
